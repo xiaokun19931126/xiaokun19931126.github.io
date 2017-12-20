@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 838494268@qq.com
 description: "小学僧放假啦"
 keyword: "XK, XK Blog, 小菜的博客, 忿怒的小学僧, 肖坤, Android"
-url: "http://xiaokun19931126.github.io"          # your host, for absolute URL
+url: "https://xiaokun19931126.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaokun19931126/xiaokun19931126.github.io.git" # you code repository
 
